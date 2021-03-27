@@ -1,11 +1,11 @@
 {
-   "name":"Judul Blog/Website",
-   "short_name":"Judul Blog/Website",
-   "start_url":"URL Blog/Website",
+   "name":"ABesar Blog",
+   "short_name":"ABesar Blog",
+   "start_url":"https://abesarblog.blogspot.com/",
    "display":"standalone",
-   "background_color":"Warna Background (Hex)",
-   "theme_color":"Warna Address Bar (Hex)",
-   "description":"Deskripsi Blog/Website",
+   "background_color":"#005af0",
+   "theme_color":"#005af0",
+   "description":"ABesar Blog adalah media pembelajaran yang berisi tutorial, tips dan trik serta referensi yang berkaitan dengan topik Teknologi dan Informasi.",
    "icons":[
       {
          "src":"URL Gambar 36 x 36 (PNG)",
@@ -21,7 +21,7 @@
       },
       {
          "src":"URL Gambar 72 x 72 (PNG)",
-         "sizes":"72x72",
+         "sizes":"72x72",https://github.com/wasuryanto3/manifest.json/blob/main/manifest.json
          "type":"image/png",
          "density":"1.5"
       },
