@@ -8,43 +8,25 @@
    "description":"ABesar Blog adalah media pembelajaran yang berisi tutorial, tips dan trik serta referensi yang berkaitan dengan topik Teknologi dan Informasi.",
    "icons":[
       {
-         "src":"URL Gambar 36 x 36 (PNG)",
-         "sizes":"36x36",
+         "src":"https://github.com/wasuryanto3/manifest.json/blob/8c05ed514683f80053640269ec9b335c9cc30dbe/favicon-16x16.png",
+         "sizes":"16x16",
          "type":"image/png",
          "density":"0.75"
       },
       {
-         "src":"URL Gambar 48 x 48 (PNG)",
-         "sizes":"48x48",
+         "src":"https://github.com/wasuryanto3/manifest.json/blob/8c05ed514683f80053640269ec9b335c9cc30dbe/favicon-32x32.png",
+         "sizes":"32x32",
          "type":"image/png",
          "density":"1.0"
       },
       {
-         "src":"URL Gambar 72 x 72 (PNG)",
-         "sizes":"72x72",https://github.com/wasuryanto3/manifest.json/blob/main/manifest.json
-         "type":"image/png",
-         "density":"1.5"
-      },
-      {
-         "src":"URL Gambar 96 x 96 (PNG)",
-         "sizes":"96x96",
-         "type":"image/png",
-         "density":"2.0"
-      },
-      {
-         "src":"URL Gambar 144 x 144 (PNG)",
-         "sizes":"144x144",
-         "type":"image/png",
-         "density":"3.0"
-      },
-      {
-         "src":"URL Gambar 192 x 192 (PNG)",
+         "src":"https://github.com/wasuryanto3/manifest.json/blob/8c05ed514683f80053640269ec9b335c9cc30dbe/android-chrome-192x192.png",
          "sizes":"192x192",
          "type":"image/png",
          "density":"4.0"
       },
       {
-         "src":"URL Gambar 512 x 512 (PNG)",
+         "src":"https://github.com/wasuryanto3/manifest.json/blob/8c05ed514683f80053640269ec9b335c9cc30dbe/android-chrome-512x512.png",
          "sizes":"512x512",
          "type":"image/png",
          "density":"5.0"
